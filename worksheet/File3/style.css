@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+}
+.header{
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+img{
+  height:275px;
+  width:200px;
+  float:left;
+  border-radius: 7px;
+  border: 5px solid red;
+  padding: 5px;
+  margin: 20px;
+}
+.intro{
+  font-family: sans-serif;
+  padding-left: 8px;
+  margin-right: 6px;
+}
+.row{
+  text-align: left;
+margin-bottom: 0%;
+}
+.top{
+  padding-bottom: 0%;
+  font-family: sans-serif;
+}
+.style3 > ul{
+  list-style:circle;
+
+}
+.style2{
+  color: red;
+  font-weight:bold ;
+}
+.style1{
+  color: red;
+  font-weight: bold;
+}
+.style4{
+  color:red;
+}
